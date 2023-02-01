@@ -1,0 +1,49 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(52, 50, 50);
+    
+}
+header {
+    text-align: center; 
+   
+}
+header img {
+    width: 200px;
+}
+nav p{
+    background-color:#fefbf1;
+    padding: 15px;
+     border-top: 2px solid #ffd977;
+     color: #004d4d;
+}
+video {
+    width: 100%;
+}
+.container {
+   margin: 0 auto;
+    width: 40%;
+}
+.intro {
+    text-align: center;
+}
+aside {
+    border-left: 2px solid #ffd977 ;
+    padding-left: 10px;
+}
+aside h3 {
+    color: red;
+    padding: 0;
+    margin-bottom: 0;
+}
+.ingredients {
+    border-bottom: 1px solid rgb(84, 198, 246);
+    padding: 35px;
+}
+.section {
+    padding: 15px 0px;
+}
+.method {
+    border-bottom: 1px solid rgb(84, 198, 246); 
+    padding-bottom: 15px;
+}
+
